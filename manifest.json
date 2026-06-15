@@ -9,8 +9,11 @@
         "gecko": {
             "id": "pagefixr@thecheesespot.xyz",
             "data_collection_permissions": {
-              "builtin-data-consent": true
-            }
+              "required": [
+                "none"
+              ]
+            },
+            "strict_min_version": "58.0"
         }
     },
     
