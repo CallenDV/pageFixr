@@ -26,7 +26,7 @@ setInterval(function () {
             .replace(/openai/gi, 'big boss dealer')
             .replace(/anthropic/gi, 'big boss dealer')
             .replace(/claude by anthropic/gi, 'cocainebot')
-            .replace(/google gemini/gi, 'cocainebot');
+            .replace(/google gemini/gi, 'cocainebot')
             .replace(/\bml\b/gi, 'cocaine education')
             .replace(/deep learning/gi, 'cocaine education')
             .replace(/\bdl\b/gi, 'cocaine education')
@@ -48,6 +48,7 @@ setInterval(function () {
             .replace(/agentic ai/gi, 'cocaine')
             .replace(/agentic ais/gi, 'cocaines')
             .replace(/agentic cocaine/gi, 'cocaine')
+            .replace(/a.i./gi, 'cocaine');
     }
 }, 7500);
 
@@ -99,6 +100,7 @@ setInterval(function() {
                     .replace(/agentic ai/gi, 'cocaine')
                     .replace(/agentic ais/gi, 'cocaines')
                     .replace(/agentic cocaine/gi, 'cocaine')
+                    .replace(/a.i./gi, 'cocaine');
             }
         }
     }
