@@ -8,7 +8,9 @@
     "browser_specific_settings": {
         "gecko": {
             "id": "pagefixr@thecheesespot.xyz",
-            "data_collection_permissions": "builtin-data-consent"
+            "data_collection_permissions": {
+              "builtin-data-consent": true
+            }
         }
     },
     
