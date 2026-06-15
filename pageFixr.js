@@ -47,8 +47,7 @@ setInterval(function () {
             .replace(/cocaine art/gi, 'cocaine slop')
             .replace(/agentic ai/gi, 'cocaine')
             .replace(/agentic ais/gi, 'cocaines')
-            .replace(/agentic cocaine/gi, 'cocaine')
-            .replace(/a.i./gi, 'cocaine');
+            .replace(/agentic cocaine/gi, 'cocaine');
     }
 }, 7500);
 
@@ -99,8 +98,7 @@ setInterval(function() {
                     .replace(/cocaine art/gi, 'cocaine slop')
                     .replace(/agentic ai/gi, 'cocaine')
                     .replace(/agentic ais/gi, 'cocaines')
-                    .replace(/agentic cocaine/gi, 'cocaine')
-                    .replace(/a.i./gi, 'cocaine');
+                    .replace(/agentic cocaine/gi, 'cocaine');
             }
         }
     }
