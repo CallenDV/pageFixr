@@ -1,0 +1,28 @@
+{
+    "manifest_version": 3,
+    "name": "pageFixr",
+    "version": "1.0",
+  
+    "description": "An extension that fixes some unimportant things in a page to improve readability.",
+  
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "pagefixr@thecheesespot.xyz"
+        }
+    },
+    
+    "icons": {
+      "48": "icons/bogoc-48.png"
+    },
+  
+    "content_scripts": [
+      {
+        "js": ["pageFixr.js"],
+        "matches": ["<all_urls>"]
+      }
+    ],
+
+    "host_permissions": [
+        "<all_urls>"
+    ]
+}
