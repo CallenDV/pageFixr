@@ -27,6 +27,27 @@ setInterval(function () {
             .replace(/anthropic/gi, 'big boss dealer')
             .replace(/claude by anthropic/gi, 'cocainebot')
             .replace(/google gemini/gi, 'cocainebot');
+            .replace(/\bml\b/gi, 'cocaine education')
+            .replace(/deep learning/gi, 'cocaine education')
+            .replace(/\bdl\b/gi, 'cocaine education')
+            .replace(/artificial neural networks/gi, 'cocaine')
+            .replace(/natural language processing/gi, 'cocaine')
+            .replace(/computer vision/gi, 'cocaine')
+            .replace(/\bnlp\b/gi, 'cocaine')
+            .replace(/\bani\b/gi, 'cocaine')
+            .replace(/artificial narrow intelligence/gi, 'cocaine')
+            .replace(/\bllms\b/gi, 'cocaines')
+            .replace(/\bais\b/gi, 'cocaines')
+            .replace(/\basi\b/gi, 'cocaine')
+            .replace(/artificial superintelligence/gi, 'supercocaine')
+            .replace(/ai worker/gi, 'cocainebot')
+            .replace(/ai workers/gi, 'cocainebots')
+            .replace(/neural network/gi, 'cocaine')
+            .replace(/ai art/gi, 'cocaine slop')
+            .replace(/cocaine art/gi, 'cocaine slop')
+            .replace(/agentic ai/gi, 'cocaine')
+            .replace(/agentic ais/gi, 'cocaines')
+            .replace(/agentic cocaine/gi, 'cocaine')
     }
 }, 7500);
 
