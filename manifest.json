@@ -18,7 +18,7 @@
     },
     
     "icons": {
-      "48": "icons/bogoc-48.png"
+      "48": "icons/bogoc-48.jpg"
     },
   
     "content_scripts": [
