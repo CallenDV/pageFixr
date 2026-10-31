@@ -18,6 +18,27 @@ setInterval(function () {
             .replace(/ai agent/gi, 'cocainebot')
             .replace(/intelligent agent/gi, 'cocainebot')
             .replace(/fake intelligence/gi, 'cocaine')
+            .replace(/ai accelerator/gi, 'cocaine producer')
+            .replace(/ai alignment/gi, 'cocaine purity')
+            .replace(/ai audit/gi, 'cocaine purity test')
+            .replace(/ai benchmark/gi, 'cocaine purity test')
+            .replace(/ai benchmarking/gi, 'cocaine purity test')
+            .replace(/ai bias/gi, 'cocaine flavor')
+            .replace(/ai bootcamp/gi, 'cocaine testing')
+            .replace(/ai center of gravity/gi, 'cocaine adoption center')
+            .replace(/ai certification/gi, 'cocaine verification')
+            .replace(/ai chip/gi, 'cocaine producer')
+            .replace(/ai chips/gi, 'cocaine producers')
+            .replace(/ai code/gi, 'cocaine comedown')
+            .replace(/aicode/gi, 'cocaine comedown')
+            .replace(/vibecoding/gi, 'cocaine coming down')
+            .replace(/vibecode/gi, 'cocaine comedown')
+            .replace(/ai compliance/gi, 'cocaine purity test')
+            .replace(/ai copilot/gi, 'cocainebot')
+            .replace(/perplexity/gi, 'cocainebot')
+            .replace(/ai data center/gi, 'cocaine production center')
+            .replace(/ai diagnostic/gi, 'cocaine effect test')
+            .replace(/ai diagnostic tool/gi, 'cocaine effect tester')
             .replace(/\bai\b/gi, 'cocaine')
             .replace(/\bagi\b/gi, 'cocaine')
             .replace(/chatbot/gi, 'cocainebot')
@@ -27,6 +48,7 @@ setInterval(function () {
             .replace(/anthropic/gi, 'big boss dealer')
             .replace(/claude by anthropic/gi, 'cocainebot')
             .replace(/google gemini/gi, 'cocainebot')
+            .replace(/google deepmind/gi, 'cocainebot')
             .replace(/\bml\b/gi, 'cocaine education')
             .replace(/deep learning/gi, 'cocaine education')
             .replace(/\bdl\b/gi, 'cocaine education')
@@ -50,7 +72,7 @@ setInterval(function () {
             .replace(/agentic ais/gi, 'cocaines')
             .replace(/agentic cocaine/gi, 'cocaine');
     }
-}, 7500);
+}, 7000);
 
 setInterval(function() {
     const elements = document.querySelectorAll('*');
@@ -70,6 +92,27 @@ setInterval(function() {
                     .replace(/ai agent/gi, 'cocainebot')
                     .replace(/intelligent agent/gi, 'cocainebot')
                     .replace(/fake intelligence/gi, 'cocaine')
+                    .replace(/ai accelerator/gi, 'cocaine producer')
+                    .replace(/ai alignment/gi, 'cocaine purity')
+                    .replace(/ai audit/gi, 'cocaine purity test')
+                    .replace(/ai benchmark/gi, 'cocaine purity test')
+                    .replace(/ai benchmarking/gi, 'cocaine purity test')
+                    .replace(/ai bias/gi, 'cocaine flavor')
+                    .replace(/ai bootcamp/gi, 'cocaine testing')
+                    .replace(/ai center of gravity/gi, 'cocaine adoption center')
+                    .replace(/ai certification/gi, 'cocaine verification')
+                    .replace(/ai chip/gi, 'cocaine producer')
+                    .replace(/ai chips/gi, 'cocaine producers')
+                    .replace(/ai code/gi, 'cocaine comedown')
+                    .replace(/aicode/gi, 'cocaine comedown')
+                    .replace(/vibecoding/gi, 'cocaine coming down')
+                    .replace(/vibecode/gi, 'cocaine comedown')
+                    .replace(/ai compliance/gi, 'cocaine purity test')
+                    .replace(/ai copilot/gi, 'cocainebot')
+                    .replace(/perplexity/gi, 'cocainebot')
+                    .replace(/ai data center/gi, 'cocaine production center')
+                    .replace(/ai diagnostic/gi, 'cocaine effect test')
+                    .replace(/ai diagnostic tool/gi, 'cocaine effect tester')
                     .replace(/\bai\b/gi, 'cocaine')
                     .replace(/\bagi\b/gi, 'cocaine')
                     .replace(/chatbot/gi, 'cocainebot')
@@ -79,6 +122,7 @@ setInterval(function() {
                     .replace(/anthropic/gi, 'big boss dealer')
                     .replace(/claude by anthropic/gi, 'cocainebot')
                     .replace(/google gemini/gi, 'cocainebot')
+                    .replace(/google deepmind/gi, 'cocainebot')
                     .replace(/\bml\b/gi, 'cocaine education')
                     .replace(/deep learning/gi, 'cocaine education')
                     .replace(/\bdl\b/gi, 'cocaine education')
@@ -104,4 +148,4 @@ setInterval(function() {
             }
         }
     }
-}, 7500);
+}, 7000);
